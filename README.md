@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Santiago Castro  
 
-<!--
-**castrosanti01/castrosanti01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Sistemas en la **Universidad Nacional del Sur**  
+💻 Apasionado por el desarrollo **frontend** y **backend**, disfruto especialmente darle un buen diseño al front.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y Herramientas
+- **Lenguajes:** Java, C, JavaScript, HTML, CSS, Kotlin  
+- **Frameworks/Librerías:** React, Next.js  
+
+---
+
+## 📌 Proyectos Destacados
+- 🎮 [Road Fighter](https://github.com/castrosanti01/road-fighter) – Juego clásico desarrollado como práctica de programación.  
+- 🎮 [Kirby Crush](https://github.com/castrosanti01/kirby-crush) – Juego inspirado en CandyCrush.  
+- 🛒 [E-commerce](https://github.com/castrosanti01/) – Proyecto fullstack con Next.js.  
+
+---
+
+## 📫 Contacto
+- 💼 [LinkedIn](https://www.linkedin.com/in/castrosanti01)  
+
+---
+✨ Siempre abierto a aprender nuevas tecnologías y participar en proyectos interesantes.
