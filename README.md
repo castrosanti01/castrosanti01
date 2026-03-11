@@ -1,13 +1,14 @@
-# 👋 ¡Hola! Soy Santiago Castro  
+# ¡Hola! Soy Santiago Castro  
 
-🎓 Estudiante de Ingeniería en Sistemas en la **Universidad Nacional del Sur**  
-💻 Apasionado por el desarrollo **frontend** y **backend**, disfruto especialmente darle un buen diseño al front.  
+Estudiante de Ingeniería en Sistemas en la **Universidad Nacional del Sur**  
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
-- **Lenguajes:** Java, C, JavaScript, HTML, CSS, Kotlin  
-- **Frameworks/Librerías:** React, Next.js  
+## 🛠️ Conocimientos
+- **Lenguajes:** Java, C, JavaScript, TypeScript, Kotlin  
+- **Desarrollo Web:** HTML, CSS, Next, React, Express
+- **Herramientas y Tecnologías:** Vercel, Postman, K6
+- **Bases de Datos:** SQL, MySQL  
 
 ---
 
@@ -22,4 +23,4 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/castrosanti01)  
 
 ---
-✨ Siempre abierto a aprender nuevas tecnologías y participar en proyectos interesantes.
+Siempre abierto a aprender nuevas tecnologías y participar en proyectos interesantes.
